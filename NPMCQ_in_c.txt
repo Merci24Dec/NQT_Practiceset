@@ -1,0 +1,13 @@
+Which is valid declarartion ?
+a)int *p = (int*)calloc(5* sizeof(int));
+b)int *p = (int*)malloc(5,sizeof(int));
+c)int *p = (int*)realloc(5* sizeof(int));
+d)int *p = (int*)calloc(5,sizeof(int));✅
+Black box testing is a code-based testing?
+a)True
+b)False✅
+The time complexity of push() operation in a stack is?
+a)O(log n)
+b)O(n)
+c)O(1)✅
+d)O(nlog n)
